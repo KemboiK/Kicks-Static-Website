@@ -296,9 +296,10 @@ ul li a:hover{
 .product h3 {
     font-size: 18px;
     margin-top: 10px;
+    color:#000;
 }
 
 .product p {
     font-size: 14px;
-    color: #888888;
+    color: #000;
 }
