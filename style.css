@@ -302,3 +302,14 @@ ul li a:hover{
     font-size: 14px;
     color: #888;
 }
+.product p {
+width: 220px;
+font-family: sans-serif;
+text-align: center;
+color: #ff7200;
+font-size: 22px;
+background-color: #fff;
+border-radius: 10px;
+margin: 2px;
+padding: 8px;
+}
