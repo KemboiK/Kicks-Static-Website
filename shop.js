@@ -1,9 +1,8 @@
-// Sample array of products (replace with your own data)
+// Sample array of products
 const products = [
-    { name: 'Product 1', price: '$20', category: 'Laptops', image: 'C:\Users\ADMIN\Downloads\laptop1.jpg' },
-    { name: 'Product 2', price: '$30', category: 'Laptops', image: 'C:\Users\ADMIN\Downloads\laptop2.webp' },
-    { name: 'Product 3', price: '$25', category: 'Laptops', image: 'C:\Users\ADMIN\Downloads\laptop3.avif' },
-    // Add more products as needed
+    { name: 'HP', price: '$20', category: 'Laptops', image: 'C:\Users\ADMIN\Downloads\laptop1.jpg' },
+    { name: 'HP spectre', price: '$30', category: 'Laptops', image: 'C:\Users\ADMIN\Downloads\laptop2.webp' },
+    { name: 'Macbook', price: '$25', category: 'Laptops', image: 'C:\Users\ADMIN\Downloads\laptop3.avif' }
 ];
 
 const content = document.querySelector('.content');

@@ -265,7 +265,7 @@ ul li a:hover{
 }
 /* Additional styles for shop page */
 .main {
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url('C:\Users\ADMIN\Desktop\Kicks (2)\images\Background.png');
     background-position: center;
     background-size: cover;
     height: auto; /* Change height to auto for content */
